@@ -151,7 +151,7 @@ const config = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `ABOBA?`,
+  footer: `Няяя | Made by Archfemboy`,
 };
 
 export default config;
